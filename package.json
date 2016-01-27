@@ -1,5 +1,5 @@
 {
-  "name": "opentechsolutions/nodejs",
+  "name": "opentechsolutions_nodejs",
   "version": "1.0.0",
   "description": "Node.js on Docker",
   "author": "Ron Darby <ron@opentechsolutions.co.za>",
